@@ -476,7 +476,7 @@
         {
             "Category": "寝部屋",
             "Worlds": [
-    　          {
+                {
                     "ID": "wrld_6315e431-fd04-4d53-a4b6-f78f2ffe8573",
                     "Name": "黄昏の雨が上がるまで - Twilight of a World",
                     "RecommendedCapacity": 20,
@@ -487,7 +487,7 @@
                         "Android": false
                     }
                 },
-    　          {
+                {
                     "ID": "wrld_59e75193-4507-4064-8dd7-ad7fa9de717f",
                     "Name": "Displace",
                     "RecommendedCapacity": 16,
@@ -541,8 +541,8 @@
                         "PC": true,
                         "Android": false
                     }
-                },               
-     　         {
+               },
+                {
                     "ID": "wrld_b6d79769-91bb-4416-abbc-797e1598dcec",
                     "Name": "うたた寝の庭先 - Early summer gardens -",
                     "RecommendedCapacity": 32,
