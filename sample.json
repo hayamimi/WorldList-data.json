@@ -474,12 +474,111 @@
             ]
         },
         {
-            "Category": "謎解き（更新予定）",
+            "Category": "寝部屋",
             "Worlds": [
+    　          {
+                    "ID": "wrld_6315e431-fd04-4d53-a4b6-f78f2ffe8573",
+                    "Name": "黄昏の雨が上がるまで - Twilight of a World",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 40,
+                    "Description": "壊れていく世界を眺めるチルワールド",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+    　          {
+                    "ID": "wrld_59e75193-4507-4064-8dd7-ad7fa9de717f",
+                    "Name": "Displace",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "夕暮れの浅瀬に浮かぶ小さな和室のワールド。少人数向け",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+    　          {
+                    "ID": "wrld_05a179cd-bda9-464f-bf91-3597cfa6e27f",
+                    "Name": "お風呂のある部屋 YUTOROOM -ゆとるーむ-",
+                    "RecommendedCapacity": 32,
+                    "Capacity": 32,
+                    "Description": "お風呂に入ってゆっくりできる広めの家",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+    　          {
+                    "ID": "wrld_f612c90d-1a12-4355-8683-215c3a34c8ed",
+                    "Name": "Thad Magic Mirrors - マジカル鏡",
+                    "RecommendedCapacity": 28,
+                    "Capacity": 80,
+                    "Description": "様々に変化する特殊なミラーをはじめとして多数のギミックが置いてあるホームワールド",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+    　          {
+                    "ID": "wrld_f582ce7f-5486-47ca-9fca-a77d8ad53cd1",
+                    "Name": "白羽旅館 Shiroha's Ryokan",
+                    "RecommendedCapacity": 30,
+                    "Capacity": 40,
+                    "Description": "現実にありそうな旅館の一室",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+     　         {
+                    "ID": "wrld_320bff3b-6164-4265-9ff2-d3b1adb1dafb",
+                    "Name": "Stay gold",
+                    "RecommendedCapacity": 10,
+                    "Capacity": 24,
+                    "Description": "屋上・屋内・地下それぞれに休憩所のある夕焼けが美しいチルワールド",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },               
+     　         {
+                    "ID": "wrld_b6d79769-91bb-4416-abbc-797e1598dcec",
+                    "Name": "うたた寝の庭先 - Early summer gardens -",
+                    "RecommendedCapacity": 32,
+                    "Capacity": 64,
+                    "Description": "様々なロケーションが用意された多人数向けお昼寝ワールド",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },    
+     　         {
+                    "ID": "wrld_0313dbea-6eeb-4566-b07d-ffb120d35252",
+                    "Name": "星と、皆と。",
+                    "RecommendedCapacity":16 ,
+                    "Capacity": 32,
+                    "Description": "最小限のアセットだけが設置された、落ち着いた雰囲気の少人数向け寝部屋",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },    
+     　         {
+                    "ID": "wrld_3561853a-f983-423b-830c-41eecf3dbc4e",
+                    "Name": "ぷらね邸 - PLANETEI",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "プラネタリウムを見ながらゆったりと横になれる部屋",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },    
             ]
         }
         {
-            "Category": "寝部屋（更新予定）",
+            "Category": "謎解き（更新予定",
             "Worlds": [
             ]
         }
