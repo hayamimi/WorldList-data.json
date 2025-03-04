@@ -498,7 +498,7 @@
                         "Android": false
                     }
                 },
-    　          {
+                {
                     "ID": "wrld_05a179cd-bda9-464f-bf91-3597cfa6e27f",
                     "Name": "お風呂のある部屋 YUTOROOM -ゆとるーむ-",
                     "RecommendedCapacity": 32,
@@ -509,7 +509,7 @@
                         "Android": false
                     }
                 },
-    　          {
+                {
                     "ID": "wrld_f612c90d-1a12-4355-8683-215c3a34c8ed",
                     "Name": "Thad Magic Mirrors - マジカル鏡",
                     "RecommendedCapacity": 28,
@@ -530,8 +530,8 @@
                         "PC": true,
                         "Android": false
                     }
-                },
-     　         {
+               },
+                {
                     "ID": "wrld_320bff3b-6164-4265-9ff2-d3b1adb1dafb",
                     "Name": "Stay gold",
                     "RecommendedCapacity": 10,
@@ -551,9 +551,9 @@
                     "Platform": {
                         "PC": true,
                         "Android": true
-                    }
-                },    
-     　         {
+                    } 
+                },
+                {
                     "ID": "wrld_0313dbea-6eeb-4566-b07d-ffb120d35252",
                     "Name": "星と、皆と。",
                     "RecommendedCapacity":16 ,
@@ -563,8 +563,8 @@
                         "PC": true,
                         "Android": true
                     }
-                },    
-     　         {
+               },
+                {
                     "ID": "wrld_3561853a-f983-423b-830c-41eecf3dbc4e",
                     "Name": "ぷらね邸 - PLANETEI",
                     "RecommendedCapacity": 16,
@@ -574,7 +574,7 @@
                         "PC": true,
                         "Android": true
                     }
-                },    
+                },
             ]
         },
         {
